@@ -1,0 +1,16 @@
+Extracted YouTube Links
+==================================================
+
+1. https://www.youtube.com/watch?v=LRdbULX-abg
+
+Total links found: 1
+
+==================================================
+Detailed Information
+==================================================
+
+URL: https://www.youtube.com/watch?v=LRdbULX-abg
+Video ID: LRdbULX-abg
+Source: page_source
+Extracted at: 2025-06-02T20:15:12.901531
+------------------------------
